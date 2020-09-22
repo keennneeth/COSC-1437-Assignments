@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -23,9 +24,18 @@ namespace Project_1_Winform
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btn_exit(object sender, EventArgs e)
         {
             Close();
         }
+
+        private void btnMessageBoxPopup(object sender, EventArgs e)
+        {
+            MessageBox.Show(
+                "This is a caption box",
+                "This is the title bar",
+               MessageBoxButtons.OK,
+               MessageBoxIcon.Information);
+        }
     }
-}
+    }
