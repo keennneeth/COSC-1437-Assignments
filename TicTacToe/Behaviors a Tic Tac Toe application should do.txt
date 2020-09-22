@@ -1,0 +1,13 @@
+1.) Elements for Tic Tac Toe Application
+ Text Box for the player name
+ Button to restart the game
+ 3x3 Grid
+ Button to let computer make a move
+
+
+2.) Player Name Must have 3 letters 
+3.) Player must make first move to start game
+4.) NPC cannot go unless player has made a move
+5.) Player/NPC only have one move
+6.) First to have 3 in a row wins the game
+7.) Restart button in order to reset the game
