@@ -7,7 +7,20 @@
 
 2.) Player Name Must have 3 letters 
 3.) Player must make first move to start game
-4.) NPC cannot go unless player has made a move
-5.) Player/NPC only have one move
+4.) computer cannot go unless player has made a move
+5.) Player/computer only have one move
 6.) First to have 3 in a row wins the game
 7.) Restart button in order to reset the game
+8.) When computer see's 2 in a row or diagonal it will place in the remaining square
+10.) The player makes a move by clicking any of the 9 boxes
+11.) The computer makes the move after player, randomly picking one of the 9 squares until 2 of the same are next to each other, diagonal,
+or if it has a remaining space in the middle( if the moves are on opposite sides it will fill the middle) if the player has 2 in a row/diagonal then it will be blocked
+if the computer has 2 in a row/diagonal then it will fill in the gap and win. (this includes the opposite side and fill in the middle rule)
+12.) In the beginning player gets to choose to be an X or O
+13.) Winning moves are checked once it detects 3 in a row
+14.) If a move is the winning move, the screen will overlay a "Win" in green text
+15.) If player loses then it will prompt a "Lose" in red text
+16.) There will be a computer v computer mode, they will randomly be assigned X or O, and will start by trying to place 2 in a row or in opposite sides, the game will be played like normal but with 2 
+computers, once one computer has 3 in a row it will win. It will then overlay the winner with the X or the O and say Winner in green.
+17.) In a 2 player game mode the first player will choose to be an X or O, Names will not be necessary since you will be able to tell who is who by the X and O, 
+Game will play like normal and whoever is a winner the screen will overlay the X or the O and say Winner.
