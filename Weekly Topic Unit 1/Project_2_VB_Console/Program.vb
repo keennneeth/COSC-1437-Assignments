@@ -1,6 +1,13 @@
 Imports System
 
+<<<<<<< Updated upstream:Weekly Topic Unit 1/Project_2_VB_Console/Program.vb
 ' ProfReynolds: put your name here
+=======
+
+/*
+* Kenneth Rodriguez
+*/
+>>>>>>> Stashed changes:Project_1_Winform/ConsoleApp For Winform/Program.vb
 
 Module Program
     Sub Main(args As String())
