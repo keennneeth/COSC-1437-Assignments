@@ -17,5 +17,14 @@ namespace UI_Layer_CSharp
             InitializeComponent();
         }
 
+        private void btnAbout_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
