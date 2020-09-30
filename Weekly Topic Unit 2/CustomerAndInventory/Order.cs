@@ -8,8 +8,8 @@ namespace CustomerAndInventory
     {
         public int ID { get; set; }
         public int CustomerID { get; set; }
-        public string OrderDate { get; set; }
-        public int OrderTotal { get; set; }
-        public int TotalNumberOfItemsInOrder { get; set; }
+        public string OrderDate { get; set; } // ProfReynolds - good
+        public int OrderTotal { get; set; } // ProfReynolds - good
+        public int TotalNumberOfItemsInOrder { get; set; } // ProfReynolds - good
     }
 }
