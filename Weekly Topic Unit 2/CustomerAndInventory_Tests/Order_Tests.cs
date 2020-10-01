@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CustomerAndInventory_Tests
@@ -30,7 +32,21 @@ namespace CustomerAndInventory_Tests
 
             //assert
             Assert.AreEqual(expected: assignedID, actual: customer.ID);
-
         }
+        [TestMethod]
+        public void Check_Proper_Assignment_Of_The_Customer_ID()
+        {
+            //assign
+            var customer = new CustomerAndInventory.Customer();
+
+            //action
+            customer.ID = 1234;
+
+            //assert
+            Assert.AreEqual(1234, customer.ID);
+        }
+
     }
 }
+
+

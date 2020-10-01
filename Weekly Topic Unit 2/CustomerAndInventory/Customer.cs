@@ -13,16 +13,15 @@ namespace CustomerAndInventory
 
         public string FullName()
         {
-            return " ";
+            return FirstName + " " + LastName;
         }
         public bool ValidateName()
         {
 
-            bool v = FirstName.Length < 1;
-            bool FirstNameIsValid = v;
-            bool LastNameIsValid = LastName.Length < 1;
+            bool FirstNameIsValid = FirstName.Length > 1;
+            bool LastNameIsValid = LastName.Length > 1;
 
-            return false;
+            return FirstNameIsValid && LastNameIsValid;
         }
     }
 }

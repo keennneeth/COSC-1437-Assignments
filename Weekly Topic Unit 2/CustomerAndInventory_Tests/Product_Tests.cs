@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CustomerAndInventory_Tests
 {
     [TestClass]
-    public class Product_Tests
+   public class Product_Tests
     {
         [TestMethod]
         public void Verify_The_ID_Is_Zero_When_Instantiated()
@@ -30,6 +32,33 @@ namespace CustomerAndInventory_Tests
 
             //assert
             Assert.AreEqual(expected: assignedID, actual: customer.ID);
+        }
+        [TestMethod]
+        public void Product_Name()
+        {
+            //assign
+            var ProductName = 00000000000;
+            var customer = new CustomerAndInventory.Customer();
+
+            //action
+            customer.ID = ProductName;
+
+            //Assert
+            Assert.AreEqual(ProductName, customer.ID);
+
+        }
+        [TestMethod]
+        public void Product_Description()
+        {
+            //assign
+            var ProductDescription = 111111111;
+            var customer = new CustomerAndInventory.Customer();
+
+            //action
+            customer.ID = ProductDescription;
+
+            //Assert
+            Assert.AreEqual(ProductDescription, customer.ID);
 
         }
     }
