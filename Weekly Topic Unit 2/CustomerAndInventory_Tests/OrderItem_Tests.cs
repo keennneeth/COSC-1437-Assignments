@@ -5,6 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+  /*
+  * Kenneth Rodriguez
+  */
+
 namespace CustomerAndInventory_Tests
 {
     [TestClass]

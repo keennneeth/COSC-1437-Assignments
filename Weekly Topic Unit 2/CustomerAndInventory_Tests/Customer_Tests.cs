@@ -6,6 +6,10 @@ using System.Threading;
 using CustomerAndInventory;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+/*
+ * Kenneth Rodriguez
+ */
+
 namespace CustomerAndInventory_Tests
 {
     [TestClass]
@@ -35,6 +39,7 @@ namespace CustomerAndInventory_Tests
             Assert.AreEqual(expected: assignedID, actual: customer.ID);
 
         }
+
 
         [TestMethod]
         public void Verify_First_Name_Can_Be_Assigned()
@@ -89,5 +94,6 @@ namespace CustomerAndInventory_Tests
             Assert.AreEqual(true, customer.ValidateName());
         }
         }
+
     }
 
