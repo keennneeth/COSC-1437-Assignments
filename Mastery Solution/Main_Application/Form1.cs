@@ -8,11 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-/*
- * ProfReynolds: put your name here
- */
-
-namespace Master_Project
+namespace Main_Application
 {
     public partial class Form1 : Form
     {
