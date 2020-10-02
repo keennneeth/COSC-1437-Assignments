@@ -9,6 +9,7 @@
     <Product>Tic Tac Toe</Product>
     <Description>This is an educational project utilized to demonstrate many of the concepts taught in programming fundamentals</Description>
     <Copyright>Copyright Kenneth Rodriguez 2020</Copyright>
+    <ApplicationIcon>tic-tac-toe_39453.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>

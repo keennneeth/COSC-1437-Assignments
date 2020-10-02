@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WPA_Application"
         mc:Ignorable="d"
         Title="Mastery Assignment - Kenneth Rodriguez" Height="450" Width="800">
-    <Grid>
+    <Grid x:Name="Flag">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1*"/>
             <ColumnDefinition Width="2*"/>
