@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Master Project", "Master Pr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF_Application", "Master Project Unit 3\WPF_Application\WPF_Application.csproj", "{50724A5D-42EB-46C5-8505-3BB242DEE036}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLibrary", "CoreLibrary\CoreLibrary.csproj", "{F31684EE-F9E5-4957-A951-D1ED424F55E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreLibrary", "CoreLibrary\CoreLibrary.csproj", "{F31684EE-F9E5-4957-A951-D1ED424F55E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLibrary_Test", "CoreLibrary_Test\CoreLibrary_Test.csproj", "{085B9308-DDA2-49FD-AA52-4DD46A73A5A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLibrary_Tests1", "CoreLibrary_Tests1\CoreLibrary_Tests1.csproj", "{6A65CDD7-D61A-42A8-91C3-7EE4ACA3F3FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{F31684EE-F9E5-4957-A951-D1ED424F55E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F31684EE-F9E5-4957-A951-D1ED424F55E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F31684EE-F9E5-4957-A951-D1ED424F55E3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{085B9308-DDA2-49FD-AA52-4DD46A73A5A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{085B9308-DDA2-49FD-AA52-4DD46A73A5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{085B9308-DDA2-49FD-AA52-4DD46A73A5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{085B9308-DDA2-49FD-AA52-4DD46A73A5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A65CDD7-D61A-42A8-91C3-7EE4ACA3F3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A65CDD7-D61A-42A8-91C3-7EE4ACA3F3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A65CDD7-D61A-42A8-91C3-7EE4ACA3F3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A65CDD7-D61A-42A8-91C3-7EE4ACA3F3FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

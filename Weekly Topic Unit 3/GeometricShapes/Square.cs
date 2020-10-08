@@ -26,7 +26,7 @@ namespace GeometricShapes
         }
         public int TotalMeasureOfAllAngles()
         {
-             return 180; // ProfReynolds: the sum of the angles in a pentagon is 360
+             return 360; // ProfReynolds: the sum of the angles in a pentagon is 360
         }
     }
 }
