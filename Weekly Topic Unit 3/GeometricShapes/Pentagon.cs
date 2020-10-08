@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+/*
+ * Kenneth Rodriguez
+ */
+
 namespace GeometricShapes
 {
     public class Pentagon : IGeometricShapes
