@@ -9,7 +9,7 @@ namespace Buisness_Layer_CSharp
     /// </summary>
     public enum CellOwners
     {
-        Error, 
+        Error,
         Open,
         Human,
         Computer

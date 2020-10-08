@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Buisness_Layer_CSharp
+namespace Buisness_Layer_CSharp1
 {
     class TicTacToeGame
     {
