@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J6jKWkuxCfINuTZoejGsdHycZ8/c71AEtFoxd7aeMNZlUanIgCLYtMfpoBnpcqJY12V20YBsqZKU/1jok69IJw==",
+  "success": true,
+  "projectFilePath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\CoreLibrary\\CoreLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mark\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mark\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
