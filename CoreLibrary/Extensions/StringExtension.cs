@@ -1,4 +1,4 @@
-﻿namespace CoreLibrary.Extensions // I deleted ".Extensions" since I couldn't figure out extensions folder namepsace provider
+﻿namespace CoreLibrary // I deleted ".Extensions" since I couldn't figure out extensions folder namepsace provider
 {
    public static class StringExtension
     {
