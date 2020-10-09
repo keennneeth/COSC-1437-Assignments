@@ -67,5 +67,17 @@ namespace GeometricShapes_Tests
 
             pentagon.Area().ShouldBeInRange(expectedAreaMinAcceptable, expectedAreaMaxAcceptable);
         }
-      }
+        [TestMethod]
+        public void Verify_TotalMeasureOfAllAngles_Is_Calculated_Accurately()
+        {
+            // Arrange
+            Pentagon pentagon = new Pentagon();
+
+            // Act
+            var x = pentagon.TotalMeasureOfAllAngles();
+
+            // Assert
+            pentagon.TotalMeasureOfAllAngles().ShouldBe(540);
+        }
+    }
 }

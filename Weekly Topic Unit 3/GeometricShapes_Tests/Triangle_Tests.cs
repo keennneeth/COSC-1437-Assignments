@@ -69,5 +69,17 @@ namespace GeometricShapes_Tests
             //Assert
             triangle.Area().ShouldBeInRange(expectedAreaMinAcceptable, expectedAreaMaxAcceptable);
         }
+        [TestMethod]
+        public void Verify_TotalMeasureOfAllAngles_Is_Calculated_Accurately()
+        {
+            // Arrange
+            Triangle triangle = new Triangle();
+
+            // Act
+            var x = triangle.TotalMeasureOfAllAngles();
+
+            // Assert
+            triangle.TotalMeasureOfAllAngles().ShouldBe(180);
+        }
     }
 }

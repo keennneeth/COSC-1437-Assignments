@@ -72,6 +72,18 @@ namespace GeometricShapes_Tests
             //Assert
             square.Area().ShouldBe(expectedArea);
         }
+        [TestMethod]
+        public void Verify_TotalMeasureOfAllAngles_Is_Calculated_Accurately()
+        {
+            // Arrange
+            Square square = new Square();
+
+            // Act
+            var x = square.TotalMeasureOfAllAngles();
+
+            // Assert
+            square.TotalMeasureOfAllAngles().ShouldBe(360);
+        }
 
     }
 }
