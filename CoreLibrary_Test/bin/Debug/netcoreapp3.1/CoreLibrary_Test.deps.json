@@ -1085,6 +1085,9 @@
         }
       },
       "CoreLibrary/1.0.0": {
+        "dependencies": {
+          "Shouldly": "3.0.2"
+        },
         "runtime": {
           "CoreLibrary.dll": {}
         }

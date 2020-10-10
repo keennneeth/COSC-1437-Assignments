@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mark\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Kenneth\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\Main Application\\Master Project.csproj",
+      "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Main Application\\Master Project.csproj",
       "projectName": "Master Project",
-      "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\Main Application\\Master Project.csproj",
-      "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
-      "outputPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\Main Application\\obj\\",
+      "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Main Application\\Master Project.csproj",
+      "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
+      "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Main Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

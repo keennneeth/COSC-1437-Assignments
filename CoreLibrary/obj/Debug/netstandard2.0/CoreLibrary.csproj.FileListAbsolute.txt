@@ -7,3 +7,12 @@ D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary\obj
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csproj.CoreCompileInputs.cache
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.dll
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.deps.json
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csproj.CoreCompileInputs.cache

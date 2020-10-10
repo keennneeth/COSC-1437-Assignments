@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\WPF_Application\\WPF_Application.csproj": {}
+    "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\WPF_Application.csproj": {}
   },
   "projects": {
-    "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\WPF_Application\\WPF_Application.csproj": {
+    "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\WPF_Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\WPF_Application\\WPF_Application.csproj",
+        "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\WPF_Application.csproj",
         "projectName": "WPF_Application",
-        "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\WPF_Application\\WPF_Application.csproj",
-        "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
-        "outputPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Mastery Solution\\WPF_Application\\obj\\",
+        "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\WPF_Application.csproj",
+        "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
+        "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
