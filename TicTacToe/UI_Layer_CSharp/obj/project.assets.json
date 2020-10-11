@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Kenneth\\.nuget\\packages\\": {}
+    "C:\\Users\\mark\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\TicTacToe\\UI_Layer_CSharp\\UI_Layer_CSharp.csproj",
+      "projectUniqueName": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\TicTacToe\\UI_Layer_CSharp\\UI_Layer_CSharp.csproj",
       "projectName": "UI_Layer_CSharp",
-      "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\TicTacToe\\UI_Layer_CSharp\\UI_Layer_CSharp.csproj",
-      "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-      "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\TicTacToe\\UI_Layer_CSharp\\obj\\",
+      "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\TicTacToe\\UI_Layer_CSharp\\UI_Layer_CSharp.csproj",
+      "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
+      "outputPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\TicTacToe\\UI_Layer_CSharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

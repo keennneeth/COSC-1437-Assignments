@@ -1,9 +1,0 @@
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\bin\Debug\netstandard2.0\Buisness_Layer_CSharp.deps.json
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\bin\Debug\netstandard2.0\Buisness_Layer_CSharp.dll
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\bin\Debug\netstandard2.0\Buisness_Layer_CSharp.pdb
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\obj\Debug\netstandard2.0\Buisness_Layer_CSharp.csprojAssemblyReference.cache
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\obj\Debug\netstandard2.0\Buisness_Layer_CSharp.AssemblyInfoInputs.cache
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\obj\Debug\netstandard2.0\Buisness_Layer_CSharp.AssemblyInfo.cs
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\obj\Debug\netstandard2.0\Buisness_Layer_CSharp.csproj.CoreCompileInputs.cache
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\obj\Debug\netstandard2.0\Buisness_Layer_CSharp.dll
-C:\Lonestar\COSC-1437-Assignments\TicTacToe\Buisness_Layer_CSharp\obj\Debug\netstandard2.0\Buisness_Layer_CSharp.pdb

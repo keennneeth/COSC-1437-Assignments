@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UZqCsGhz/wpSyVtwevFHVESygq9vG6ZY5XDaTbLIxHwPLXt1BbwTKCobCX4C8FC608BbdswnjDDG1cUEft80vA==",
+  "dgSpecHash": "rRt+EVPZROOq+9rF22+8z7gUD/9PKKiRcKllYNCfwy5NBfczOTfg12mWnHWHmXG+yoD0oGr1VsSBPo7JDjegsw==",
   "success": true,
-  "projectFilePath": "C:\\Lonestar\\COSC-1437-Assignments\\TicTacToe\\Buisness_Layer_CSharp\\Buisness_Layer_CSharp.csproj",
+  "projectFilePath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\TicTacToe\\Buisness_Layer_CSharp\\Buisness_Layer_CSharp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Kenneth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\mark\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mark\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
