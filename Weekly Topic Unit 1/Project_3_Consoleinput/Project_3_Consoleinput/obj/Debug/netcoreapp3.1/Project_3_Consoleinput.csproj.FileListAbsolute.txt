@@ -1,0 +1,12 @@
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\bin\Debug\netcoreapp3.1\Project_3_Consoleinput.exe
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\bin\Debug\netcoreapp3.1\Project_3_Consoleinput.deps.json
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\bin\Debug\netcoreapp3.1\Project_3_Consoleinput.runtimeconfig.json
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\bin\Debug\netcoreapp3.1\Project_3_Consoleinput.runtimeconfig.dev.json
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\bin\Debug\netcoreapp3.1\Project_3_Consoleinput.dll
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\bin\Debug\netcoreapp3.1\Project_3_Consoleinput.pdb
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\obj\Debug\netcoreapp3.1\Project_3_Consoleinput.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\obj\Debug\netcoreapp3.1\Project_3_Consoleinput.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\obj\Debug\netcoreapp3.1\Project_3_Consoleinput.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\obj\Debug\netcoreapp3.1\Project_3_Consoleinput.dll
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\obj\Debug\netcoreapp3.1\Project_3_Consoleinput.pdb
+C:\Lonestar\COSC-1437-Assignments\Project_3_Consoleinput\Project_3_Consoleinput\obj\Debug\netcoreapp3.1\Project_3_Consoleinput.genruntimeconfig.cache

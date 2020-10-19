@@ -1,7 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e75821e_002Ddfdd_002D4580_002D9d8c_002Dfbea9063fcf5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Pentagon_Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes_Tests" Presentation="&amp;lt;GeometricShapes_Tests&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=75b9cfcf_002D3dab_002D4eb5_002D8602_002Dc7cf95372a70/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;GeometricShapes_Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
-  &lt;Project Location="D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes_Tests" Presentation="&amp;lt;GeometricShapes_Tests&amp;gt;" /&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

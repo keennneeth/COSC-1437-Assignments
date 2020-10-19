@@ -1,9 +1,9 @@
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.deps.json
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.dll
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.pdb
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.csprojAssemblyReference.cache
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.AssemblyInfoInputs.cache
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.AssemblyInfo.cs
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.csproj.CoreCompileInputs.cache
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.dll
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.pdb
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.deps.json
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.dll
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\bin\Debug\netstandard2.0\GeometricShapes.pdb
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.dll
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 3\GeometricShapes\obj\Debug\netstandard2.0\GeometricShapes.pdb

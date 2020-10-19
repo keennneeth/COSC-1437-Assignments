@@ -1,9 +1,0 @@
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\bin\Debug\netstandard2.0\Buisness_Layer_CSharp1.deps.json
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\bin\Debug\netstandard2.0\Buisness_Layer_CSharp1.dll
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\bin\Debug\netstandard2.0\Buisness_Layer_CSharp1.pdb
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\obj\Debug\netstandard2.0\Buisness_Layer_CSharp1.csprojAssemblyReference.cache
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\obj\Debug\netstandard2.0\Buisness_Layer_CSharp1.AssemblyInfoInputs.cache
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\obj\Debug\netstandard2.0\Buisness_Layer_CSharp1.AssemblyInfo.cs
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\obj\Debug\netstandard2.0\Buisness_Layer_CSharp1.csproj.CoreCompileInputs.cache
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\obj\Debug\netstandard2.0\Buisness_Layer_CSharp1.dll
-D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\TicTacToe\Buisness_Layer_CSharp1\obj\Debug\netstandard2.0\Buisness_Layer_CSharp1.pdb

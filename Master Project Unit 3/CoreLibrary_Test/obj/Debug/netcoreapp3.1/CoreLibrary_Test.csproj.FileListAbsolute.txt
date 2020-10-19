@@ -1,0 +1,194 @@
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.deps.json
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.runtimeconfig.json
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.runtimeconfig.dev.json
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\testhost.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Shouldly.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.csprojAssemblyReference.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.AssemblyInfoInputs.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.AssemblyInfo.cs
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.csproj.CoreCompileInputs.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.csproj.CopyComplete
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Mastery Solution\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.genruntimeconfig.cache
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.pdb
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.deps.json
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.runtimeconfig.json
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.runtimeconfig.dev.json
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary_Test.pdb
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\Shouldly.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary.dll
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary.pdb
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.csproj.CopyComplete
+C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.genruntimeconfig.cache
