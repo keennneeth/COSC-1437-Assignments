@@ -192,3 +192,5 @@ C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreL
 C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\bin\Debug\netcoreapp3.1\CoreLibrary.pdb
 C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.csproj.CopyComplete
 C:\Lonestar\COSC-1437-Assignments\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.genruntimeconfig.cache
+C:\Lonestar\COSC-1437-Assignments\Master Project Unit 3\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.dll
+C:\Lonestar\COSC-1437-Assignments\Master Project Unit 3\CoreLibrary_Test\obj\Debug\netcoreapp3.1\CoreLibrary_Test.pdb

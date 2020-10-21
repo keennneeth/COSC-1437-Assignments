@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/Ly3a/9s9IFCCdBrDIGgE7BUm/wQTX/V6hDxqM7fZh1Emlqbhjh21Aad25uMW5uK+LJB3gjtL8OiYhv2UldpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 3\\TicTacToe-Interfaces\\TicTacToe-Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

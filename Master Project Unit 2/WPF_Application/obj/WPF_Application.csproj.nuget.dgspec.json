@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\WPF_Application.csproj": {}
+    "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 2\\WPF_Application\\WPF_Application.csproj": {}
   },
   "projects": {
-    "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\WPF_Application.csproj": {
+    "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 2\\WPF_Application\\WPF_Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\WPF_Application.csproj",
+        "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 2\\WPF_Application\\WPF_Application.csproj",
         "projectName": "WPF_Application",
-        "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\WPF_Application.csproj",
+        "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 2\\WPF_Application\\WPF_Application.csproj",
         "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-        "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\WPF_Application\\obj\\",
+        "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 2\\WPF_Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",

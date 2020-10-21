@@ -1647,19 +1647,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "CoreLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Shouldly": "3.0.2"
-        },
-        "compile": {
-          "bin/placeholder/CoreLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CoreLibrary.dll": {}
-        }
       }
     }
   },
@@ -5750,16 +5737,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "CoreLibrary/1.0.0": {
-      "type": "project",
-      "path": "../CoreLibrary/CoreLibrary.csproj",
-      "msbuildProject": "../CoreLibrary/CoreLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CoreLibrary >= 1.0.0",
+      "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 3\\CoreLibrary\\CoreLibrary.csproj",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -5773,11 +5755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\CoreLibrary_Test\\CoreLibrary_Test.csproj",
+      "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 3\\CoreLibrary_Test\\CoreLibrary_Test.csproj",
       "projectName": "CoreLibrary_Test",
-      "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\CoreLibrary_Test\\CoreLibrary_Test.csproj",
+      "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 3\\CoreLibrary_Test\\CoreLibrary_Test.csproj",
       "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-      "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\CoreLibrary_Test\\obj\\",
+      "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 3\\CoreLibrary_Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5793,8 +5775,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Lonestar\\COSC-1437-Assignments\\CoreLibrary\\CoreLibrary.csproj": {
-              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\CoreLibrary\\CoreLibrary.csproj"
+            "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 3\\CoreLibrary\\CoreLibrary.csproj": {
+              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 3\\CoreLibrary\\CoreLibrary.csproj"
             }
           }
         }
@@ -5847,5 +5829,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 3\\CoreLibrary\\CoreLibrary.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Lonestar\\COSC-1437-Assignments\\Master Project Unit 3\\CoreLibrary\\CoreLibrary.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }
