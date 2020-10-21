@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Buisness_Layer_CSharp
+﻿namespace TicTacToe_Interfaces
 {
     /// <summary>
     /// CellOwners is the set of possible cell states
