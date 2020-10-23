@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "uwROh1vkIM4ZJ9R9+PZDSyKMjDu8KjP81j8m8Nrsow9AbaEF9YB7FBsjULXrnRErAPUdFZssgVcAVXM9wQ5tXA==",
+  "dgSpecHash": "P7JkAAuMbbI6gNY0vzQ+v7q//tTlCfYWcpd1Df7RLm8P2RqO5oVdyDXYrNjSuLtOxRNSv2pGvWrJXw1KvgWC9Q==",
   "success": true,
-  "projectFilePath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 4\\Middle_Tier\\Middle_Tier.csproj",
+  "projectFilePath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 4\\Middle_Tier\\Middle_Tier.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mark\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\mark\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

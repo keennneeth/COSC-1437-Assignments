@@ -1,0 +1,32 @@
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\bin\Debug\netcoreapp3.1\Master Project.exe
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\bin\Debug\netcoreapp3.1\Master Project.deps.json
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\bin\Debug\netcoreapp3.1\Master Project.runtimeconfig.json
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\bin\Debug\netcoreapp3.1\Master Project.runtimeconfig.dev.json
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\bin\Debug\netcoreapp3.1\Master Project.dll
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\bin\Debug\netcoreapp3.1\Master Project.pdb
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master Project.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master_Project.Form1.resources
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master Project.csproj.GenerateResource.cache
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master Project.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master Project.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master Project.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master Project.dll
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master Project.pdb
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master Project.genruntimeconfig.cache
+C:\Lonestar\COSC-1437-Assignments\Master Project\Master Project\obj\Debug\netcoreapp3.1\Master_Project.Properties.Resources.resources
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\bin\Debug\netcoreapp3.1\Master Project.exe
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\bin\Debug\netcoreapp3.1\Master Project.deps.json
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\bin\Debug\netcoreapp3.1\Master Project.runtimeconfig.json
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\bin\Debug\netcoreapp3.1\Master Project.runtimeconfig.dev.json
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\bin\Debug\netcoreapp3.1\Master Project.dll
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\bin\Debug\netcoreapp3.1\Master Project.pdb
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master Project.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master_Project.Form1.resources
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master_Project.Properties.Resources.resources
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master Project.csproj.GenerateResource.cache
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master Project.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master Project.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master Project.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master Project.dll
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master Project.pdb
+C:\Lonestar\COSC-1437-Assignments\Mastery Solution Unit 5\Main Application\obj\Debug\netcoreapp3.1\Master Project.genruntimeconfig.cache

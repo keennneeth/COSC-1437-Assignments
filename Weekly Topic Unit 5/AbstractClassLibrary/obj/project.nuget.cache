@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SbXrkcEmaORAuHguvRfko725qz8zNg5Zd84odiPQ9x8ZFNjAHRr7VHawJpC77xjKlXY6PISWjQjYLzDUiqVXKg==",
+  "success": true,
+  "projectFilePath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\AbstractClassLibrary\\AbstractClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
