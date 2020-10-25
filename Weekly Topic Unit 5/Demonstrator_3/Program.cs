@@ -1,5 +1,5 @@
-﻿using GeometricShapes;
-using System;
+﻿using System;
+using GeometricShapes;
 
 namespace Demonstrator_3
     /*
@@ -13,18 +13,20 @@ namespace Demonstrator_3
             Console.WriteLine("Kenneth Rodriguez Demonstrator_3");
             Console.WriteLine();
 
-            var triangle = new Triangle() { SideLength = 123.456 };
-            TellAboutTheShape(triangle);
+            IGeometricShapes myGeometricShapes;
+
+            myGeometricShapes = new Triangle() { SideLength = 123.456 };
+            TellAboutTheShape(myGeometricShapes);
 
             Console.WriteLine();
 
-            var square = new Square() { SideLength = 321.654 };
-            TellAboutTheShape(square);
+            myGeometricShapes = new Square() { SideLength = 321.654 };
+            TellAboutTheShape(myGeometricShapes);
 
             Console.WriteLine();
 
-            var pentagon = new Pentagon() { SideLength = 1.123 };
-            TellAboutTheShape(pentagon);
+            myGeometricShapes = new Pentagon() { SideLength = 1.123 };
+            TellAboutTheShape(myGeometricShapes);
     
           
 

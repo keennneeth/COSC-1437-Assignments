@@ -1,7 +1,7 @@
-﻿using GeometricShapes;
-using System;
+﻿using System;
+using AbstractClassLibrary;
 
-namespace Demonstrator_3
+namespace Demonstrator_4
 /*
  * Kenneth Rodriguez
  */
@@ -13,18 +13,20 @@ namespace Demonstrator_3
             Console.WriteLine("Kenneth Rodriguez Demonstrator_4");
             Console.WriteLine();
 
-            var triangle = new Triangle() { SideLength = 123.456 };
-            TellAboutTheShape(triangle);
+            AbstractGeometricShape myGeometricShape;
+
+            myGeometricShape = new Triangle() { SideLength = 123.456 };
+            TellAboutTheShape(myGeometricShape);
 
             Console.WriteLine();
 
-            var square = new Square() { SideLength = 321.654 };
-            TellAboutTheShape(square);
+            myGeometricShape = new Square() { SideLength = 321.654 };
+            TellAboutTheShape(myGeometricShape);
 
             Console.WriteLine();
 
-            var pentagon = new Pentagon() { SideLength = 1.123 };
-            TellAboutTheShape(pentagon);
+            myGeometricShape = new Pentagon() { SideLength = 1.123 };
+            TellAboutTheShape(myGeometricShape);
 
 
 
@@ -33,7 +35,7 @@ namespace Demonstrator_3
             Console.ReadKey();
         }
 
-        static void TellAboutTheShape(IGeometricShapes thisShape)
+        static void TellAboutTheShape(AbstractGeometricShape thisShape)
         {
             Console.WriteLine($"This Object is a {thisShape.GetType()}");
             Console.WriteLine(thisShape.Description());

@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "GeometricShapes/1.0.0": {
+      "AbstractClassLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/GeometricShapes.dll": {}
+          "bin/placeholder/AbstractClassLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GeometricShapes.dll": {}
+          "bin/placeholder/AbstractClassLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "GeometricShapes/1.0.0": {
+    "AbstractClassLibrary/1.0.0": {
       "type": "project",
-      "path": "../GeometricShapes/GeometricShapes.csproj",
-      "msbuildProject": "../GeometricShapes/GeometricShapes.csproj"
+      "path": "../AbstractClassLibrary/AbstractClassLibrary.csproj",
+      "msbuildProject": "../AbstractClassLibrary/AbstractClassLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "GeometricShapes >= 1.0.0"
+      "AbstractClassLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj": {
-              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj"
+            "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\AbstractClassLibrary\\AbstractClassLibrary.csproj": {
+              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\AbstractClassLibrary\\AbstractClassLibrary.csproj"
             }
           }
         }

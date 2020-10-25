@@ -1,0 +1,4 @@
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 5\Demonstrator_4\obj\Debug\netcoreapp3.1\Demonstrator_4.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 5\Demonstrator_4\obj\Debug\netcoreapp3.1\Demonstrator_4.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 5\Demonstrator_4\obj\Debug\netcoreapp3.1\Demonstrator_4.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 5\Demonstrator_4\obj\Debug\netcoreapp3.1\Demonstrator_4.csproj.CoreCompileInputs.cache

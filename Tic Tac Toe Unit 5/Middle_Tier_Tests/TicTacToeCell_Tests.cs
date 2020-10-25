@@ -53,7 +53,7 @@ namespace Middle_Tier_Tests
             var ticTacToeCell = new TicTacToeCell();
 
             // action
-            ticTacToeCell.RowID = attemptedAssignment;
+            // na
          
 
             // assert
@@ -74,7 +74,7 @@ namespace Middle_Tier_Tests
             var ticTacToeCell = new TicTacToeCell();
 
             // action
-            
+            ticTacToeCell.ColID = attemptedAssignment;
 
             // assert
             ticTacToeCell.ColID.ShouldBe(expectedResult);
@@ -90,7 +90,6 @@ namespace Middle_Tier_Tests
             var ticTacToeCell = new TicTacToeCell();
 
             // action
-
             //na
 
             // assert

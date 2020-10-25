@@ -15,8 +15,8 @@ namespace TicTacToe_Interfaces
         /// <summary>
         /// Identifies the cell owner of a cell in a speficied row - col
         /// <summary>
-        /// <param name = "CellRow" = the row of the cell </param>
-        /// <param name = "CellCol" = the column of the cell </param>
+        /// <param name = "CellRow">the row of the cell </param>
+        /// <param name = "CellCol">the column of the cell </param>
         /// <returns> the identity of the owner of the cell </returns>
         CellOwners IdentifyCellOwner(int CellRow, int CellCol);
 
