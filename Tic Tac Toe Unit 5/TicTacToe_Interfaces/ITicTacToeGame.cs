@@ -12,14 +12,23 @@ namespace TicTacToe_Interfaces
 
         string PlayerName { get; set; }
 
+        /*
+         * ProfReynolds
+         * profreynolds - changed second <summary> to </summary>
+         */
         /// <summary>
         /// Identifies the cell owner of a cell in a speficied row - col
-        /// <summary>
+        /// </summary> 
         /// <param name = "CellRow">the row of the cell </param>
         /// <param name = "CellCol">the column of the cell </param>
         /// <returns> the identity of the owner of the cell </returns>
         CellOwners IdentifyCellOwner(int CellRow, int CellCol);
 
+        /*
+         * ProfReynolds
+         * in the method signature - changed Cellcol to CellCol
+         * note: there are 30 refeences to this method; ReSharper made the change a snap
+         */
         /// <summary>
         /// sets the cell owner of a cell in a specific row - col
         /// </summary>
@@ -27,7 +36,7 @@ namespace TicTacToe_Interfaces
         /// <param name="CellCol">the column opf the cell</param>
         /// <param name="CellOwner">the new owner of the cell</param>
 
-        void AssignCellOwner(int CellRow, int Cellcol, CellOwners CellOwner);
+        void AssignCellOwner(int CellRow, int CellCol, CellOwners CellOwner);
 
     }
 }

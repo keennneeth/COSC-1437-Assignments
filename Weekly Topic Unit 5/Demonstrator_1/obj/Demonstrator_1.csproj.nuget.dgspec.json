@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\Demonstrator_1\\Demonstrator_1.csproj": {}
+    "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\Demonstrator_1\\Demonstrator_1.csproj": {}
   },
   "projects": {
-    "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\Demonstrator_1\\Demonstrator_1.csproj": {
+    "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\Demonstrator_1\\Demonstrator_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\Demonstrator_1\\Demonstrator_1.csproj",
+        "projectUniqueName": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\Demonstrator_1\\Demonstrator_1.csproj",
         "projectName": "Demonstrator_1",
-        "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\Demonstrator_1\\Demonstrator_1.csproj",
-        "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-        "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\Demonstrator_1\\obj\\",
+        "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\Demonstrator_1\\Demonstrator_1.csproj",
+        "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
+        "outputPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\Demonstrator_1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -27,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj": {
-                "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj"
+              "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj": {
+                "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj"
               }
             }
           }
@@ -56,22 +60,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj": {
+    "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj",
+        "projectUniqueName": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj",
         "projectName": "GeometricShapes",
-        "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj",
-        "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-        "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 5\\GeometricShapes\\obj\\",
+        "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\GeometricShapes\\GeometricShapes.csproj",
+        "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
+        "outputPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Weekly Topic Unit 5\\GeometricShapes\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -111,7 +119,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
