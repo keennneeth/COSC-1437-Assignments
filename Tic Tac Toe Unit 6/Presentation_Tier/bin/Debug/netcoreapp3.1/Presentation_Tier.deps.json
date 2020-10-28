@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Presentation_Tier/1.0.0": {
+        "dependencies": {
+          "Middle_Tier": "1.0.0",
+          "TicTacToe_Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Presentation_Tier.dll": {}
+        }
+      },
+      "Middle_Tier/1.0.0": {
+        "dependencies": {
+          "TicTacToe_Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Middle_Tier.dll": {}
+        }
+      },
+      "TicTacToe_Interfaces/1.0.0": {
+        "runtime": {
+          "TicTacToe_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Presentation_Tier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Middle_Tier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToe_Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\bin\Debug\netcoreapp3.1\LinkedListGenericClass.exe
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\bin\Debug\netcoreapp3.1\LinkedListGenericClass.deps.json
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\bin\Debug\netcoreapp3.1\LinkedListGenericClass.runtimeconfig.json
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\bin\Debug\netcoreapp3.1\LinkedListGenericClass.runtimeconfig.dev.json
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\bin\Debug\netcoreapp3.1\LinkedListGenericClass.dll
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\bin\Debug\netcoreapp3.1\LinkedListGenericClass.pdb
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\obj\Debug\netcoreapp3.1\LinkedListGenericClass.vbprojAssemblyReference.cache
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\obj\Debug\netcoreapp3.1\LinkedListGenericClass.AssemblyInfoInputs.cache
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\obj\Debug\netcoreapp3.1\LinkedListGenericClass.AssemblyInfo.vb
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\obj\Debug\netcoreapp3.1\LinkedListGenericClass.vbproj.CoreCompileInputs.cache
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\obj\Debug\netcoreapp3.1\LinkedListGenericClass.dll
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\obj\Debug\netcoreapp3.1\LinkedListGenericClass.pdb
+D:\Lonestar Solutions\COSC-1437-Assignments\Weekly Topic Unit 6\LinkedListGenericClass\obj\Debug\netcoreapp3.1\LinkedListGenericClass.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8FL1ZmQrCoYGj4xvncBhrLp5TJseJOxL4f3I2ERBQ74xVIwKkNguLN3HydfIUi/2Ll46NsPwJM5AyXTAfxpzA==",
+  "success": true,
+  "projectFilePath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 6\\Middle_Tier\\Middle_Tier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
