@@ -43,12 +43,13 @@ namespace Presentation_Tier
         private void btnStartNewGame_Click(object sender, EventArgs e)
         {
             // MessageBox.Show("btnStartNewGame", "Button Click");
-
-
-            var btn = item as Button;
-            if (btn != null)
+            foreach (var item in panel1.Controls)
             {
-                btn.Text = "?";
+                var btn = item as Button;
+                if (btn != null)
+                {
+                    btn.Text = "?";
+                }
             }
         }
 

@@ -74,8 +74,7 @@ namespace NodeChains
             {
                 var newRandomValue = r.Next(100, 200);
 
-                workingNode.Next = new Node();
-                workingNode.Value = newRandomValue;
+                workingNode.Next = new Node() { Value = newRandomValue };
 
                 workingNode = workingNode.Next;
             }
