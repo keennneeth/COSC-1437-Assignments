@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcT7Map6OmDUmSjiZ1kxMMBWq9PI1S++zNSlv9YZ83xCL6W4z7K0g+T+JtQVwlIjrKS6zVM5VxUEIlETc8iFNw==",
+  "success": true,
+  "projectFilePath": "C:\\Lonestar\\COSC-1437-Assignments\\Weekly Topic Unit 7\\MyGenericStack\\MyGenericStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

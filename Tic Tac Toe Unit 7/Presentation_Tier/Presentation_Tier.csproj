@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Authors>Kenneth Rodriguez</Authors>
+    <Company>Lone Star College</Company>
+    <Product>Tic Tac Toe</Product>
+    <Description>This is an educational project utilized to demonstrate many of the concepts taught in programming fundamentals</Description>
+    <Copyright>Copyright Kenneth Rodriguez 2020</Copyright>
+    <ApplicationIcon>tic-tac-toe_39453.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Middle_Tier\Middle_Tier.csproj" />
+    <ProjectReference Include="..\TicTacToe_Interfaces\TicTacToe_Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

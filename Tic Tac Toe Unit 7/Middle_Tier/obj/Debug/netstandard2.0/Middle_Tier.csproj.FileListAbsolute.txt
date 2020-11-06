@@ -1,0 +1,36 @@
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.deps.json
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.pdb
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\TicTacToe_Interfaces.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CopyComplete
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.deps.json
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\TicTacToe_Interfaces.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\bin\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csprojAssemblyReference.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.AssemblyInfoInputs.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.AssemblyInfo.cs
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CoreCompileInputs.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CopyComplete
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 5\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.pdb
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.deps.json
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.pdb
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\bin\Debug\netstandard2.0\TicTacToe_Interfaces.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\bin\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CopyComplete
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 7\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.pdb
