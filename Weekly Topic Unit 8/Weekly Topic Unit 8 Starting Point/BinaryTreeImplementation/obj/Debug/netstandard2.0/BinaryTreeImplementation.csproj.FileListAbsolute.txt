@@ -1,0 +1,9 @@
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\bin\Debug\netstandard2.0\BinaryTreeImplementation.deps.json
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\bin\Debug\netstandard2.0\BinaryTreeImplementation.dll
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\bin\Debug\netstandard2.0\BinaryTreeImplementation.pdb
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\obj\Debug\netstandard2.0\BinaryTreeImplementation.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\obj\Debug\netstandard2.0\BinaryTreeImplementation.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\obj\Debug\netstandard2.0\BinaryTreeImplementation.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\obj\Debug\netstandard2.0\BinaryTreeImplementation.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\obj\Debug\netstandard2.0\BinaryTreeImplementation.dll
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\BinaryTreeImplementation\obj\Debug\netstandard2.0\BinaryTreeImplementation.pdb

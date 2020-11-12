@@ -1,0 +1,16 @@
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\bin\Debug\netcoreapp3.1\WordSorterDemo.exe
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\bin\Debug\netcoreapp3.1\WordSorterDemo.deps.json
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\bin\Debug\netcoreapp3.1\WordSorterDemo.runtimeconfig.json
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\bin\Debug\netcoreapp3.1\WordSorterDemo.runtimeconfig.dev.json
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\bin\Debug\netcoreapp3.1\WordSorterDemo.dll
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\bin\Debug\netcoreapp3.1\WordSorterDemo.pdb
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\bin\Debug\netcoreapp3.1\BinaryTreeImplementation.dll
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\bin\Debug\netcoreapp3.1\BinaryTreeImplementation.pdb
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\obj\Debug\netcoreapp3.1\WordSorterDemo.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\obj\Debug\netcoreapp3.1\WordSorterDemo.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\obj\Debug\netcoreapp3.1\WordSorterDemo.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\obj\Debug\netcoreapp3.1\WordSorterDemo.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\obj\Debug\netcoreapp3.1\WordSorterDemo.csproj.CopyComplete
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\obj\Debug\netcoreapp3.1\WordSorterDemo.dll
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\obj\Debug\netcoreapp3.1\WordSorterDemo.pdb
+C:\Lonestar\COSC-1437-Assignments\Weekly Topic Unit 8\Weekly Topic Unit 8 Starting Point\WordSorterDemo\obj\Debug\netcoreapp3.1\WordSorterDemo.genruntimeconfig.cache

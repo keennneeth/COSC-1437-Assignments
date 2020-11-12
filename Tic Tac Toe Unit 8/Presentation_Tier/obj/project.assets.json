@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Middle_Tier/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "TicTacToe_Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Middle_Tier.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Middle_Tier.dll": {}
+        }
+      },
+      "TicTacToe_Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/TicTacToe_Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicTacToe_Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Middle_Tier/1.0.0": {
+      "type": "project",
+      "path": "../Middle_Tier/Middle_Tier.csproj",
+      "msbuildProject": "../Middle_Tier/Middle_Tier.csproj"
+    },
+    "TicTacToe_Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../TicTacToe_Interfaces/TicTacToe_Interfaces.csproj",
+      "msbuildProject": "../TicTacToe_Interfaces/TicTacToe_Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Middle_Tier >= 1.0.0",
+      "TicTacToe_Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kenneth\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 8\\Presentation_Tier\\Presentation_Tier.csproj",
+      "projectName": "Presentation_Tier",
+      "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 8\\Presentation_Tier\\Presentation_Tier.csproj",
+      "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
+      "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 8\\Presentation_Tier\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 8\\Middle_Tier\\Middle_Tier.csproj": {
+              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 8\\Middle_Tier\\Middle_Tier.csproj"
+            },
+            "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 8\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj": {
+              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 8\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
