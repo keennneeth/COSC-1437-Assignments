@@ -229,7 +229,18 @@ namespace Middle_Tier
             {
                 if (targetCell.CellOwner == CellOwners.Open)
                 {
+                    /*
+                     * ProfReynolds2
+                     * replace this line
+                     */
                     targetCell.CellOwner = CellOwners.Computer;
+                    /*
+                     * ProfReynolds2
+                     * with this line
+                     * AssignCellOwner(targetCell.RowID, targetCell.ColID, CellOwners.Computer);
+                     * This is because the AssignCellOwner will trigger the event and tell the mainform to make the mark on the board
+                     */
+                    
                     return;
                 }
             }
