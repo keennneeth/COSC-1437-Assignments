@@ -67,12 +67,12 @@ namespace Presentation_Tier
 
         {
             // ProfReynolds - iside methods, the variable should begin with a lowercase
-            var PlayerNameIsValid = (txtPlayerName.Text.Length >= 3);
+            var playerNameIsValid = (txtPlayerName.Text.Length >= 3);
 
-            btnStartNewGame.Enabled = PlayerNameIsValid;
-            btnGoComputer.Enabled = PlayerNameIsValid;
+            btnStartNewGame.Enabled = playerNameIsValid;
+            btnGoComputer.Enabled = playerNameIsValid;
 
-            panel1.Enabled = PlayerNameIsValid;
+            panel1.Enabled = playerNameIsValid;
 
 
             // as the content changes, this event will trigger as each charcter changes
@@ -84,9 +84,9 @@ namespace Presentation_Tier
          * control has been validated, this command is needed:
          * _ticTacToeGame.PlayerName = txtPlayerName.Text;
          */
-        private void txtPlayerName_VisibleChanged(object sender, EventArgs e)
+        private void txtPlayerName_Validated(object sender, EventArgs e)
         {
-            // when the focus leaves the text box, this event is triggered
+            
         }
 
         private void btnStartNewGame_Click(object sender, EventArgs e)
@@ -117,7 +117,7 @@ namespace Presentation_Tier
 
             if (_ticTacToeGame.CheckForWinner())
             {
-                MessageBox.Show("The Winner!");
+                MessageBox.Show("Computer", "The Winner!");
                 // ProfReynolds - this would be better: MessageBox.Show("Computer","The Winner!");
             }
         }
@@ -126,28 +126,21 @@ namespace Presentation_Tier
         {
             if (_ticTacToeGame.Winner != CellOwners.Open) return;
 
-            //var btn = sender as Button;
-            //var rowID = btn.Name.Substring(7, 1).ToInt();
-            //var colID = btn.Name.Substring(8, 1).ToInt();
+            var btn = sender as Button;
+            var rowID = btn.Name.Substring(7, 1).ToInt();
+            var colID = btn.Name.Substring(8, 1).ToInt();
 
-            //Debug.WriteLine($"Button click: row={rowID} col={colID}");
+            Debug.WriteLine($"Button click: row={rowID} col={colID}");
 
-            //_ticTacToeGame.AssignCellOwner(rowID, colID, CellOwners.Human);
-            //btn.Text = "X";
+            _ticTacToeGame.AssignCellOwner(rowID, colID, CellOwners.Human);
+            btn.Text = "X";
+
 
             // ProfReynolds: This is even better than the above:
-            if (sender is Button btn)
-            {
-                var rowID = btn.Name.Substring(7, 1).ToInt();
-                var colID = btn.Name.Substring(8, 1).ToInt();
-                Debug.WriteLine($"Button click: row={rowID} col={colID}");
-                _ticTacToeGame.AssignCellOwner(rowID, colID, CellOwners.Human);
-                btn.Text = "X"; // ProfReynolds - do not assign the X here. The CellOwnerChangedHandler will take care of it
-            }
 
             if (_ticTacToeGame.CheckForWinner())
             {
-                MessageBox.Show("The Winner!");
+                MessageBox.Show(_ticTacToeGame.PlayerName, "The Winner!");
                 // ProfReynolds - this would be better: MessageBox.Show(_ticTacToeGame.PlayerName,"The Winner!");
             }
         }
@@ -187,7 +180,6 @@ namespace Presentation_Tier
             }
         }
 
-
-
+      
     }
 }

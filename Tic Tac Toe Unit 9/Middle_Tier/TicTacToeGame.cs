@@ -136,17 +136,23 @@ namespace Middle_Tier
 
            public void AssignCellOwner(int CellRow, int CellCol, CellOwners CellOwner)
             {
-                if (_ticTacToeCells.Count == 0)
-                    return;
 
-                var targetCell = _ticTacToeCells
-                      .FirstOrDefault(tttc => tttc.RowID == CellRow && tttc.ColID == CellCol);
+            if (_ticTacToeCells.Count == 0) return;
 
-                if (targetCell == null)
-                    return;
-                targetCell.CellOwner = CellOwner;
+            if (Winner == CellOwners.Computer || Winner == CellOwners.Human) return;
+
+            var targetCell = _ticTacToeCells
+                .FirstOrDefault(tttc => tttc.RowID == CellRow && tttc.ColID == CellCol);
+
+            if (targetCell == null)
+                return;
+
+            targetCell.CellOwner = CellOwner;
 
             Debug.WriteLine($"Method: AssignCellOwner {CellRow}-{CellCol} {CellOwner}");
+            var eventArgs = new CellOwnerChangedArgs(CellRow, CellCol, CellOwner);
+
+            CellOwnerChanged?.Invoke(this, eventArgs);
         }
 
         public void AutoPlayComputer()

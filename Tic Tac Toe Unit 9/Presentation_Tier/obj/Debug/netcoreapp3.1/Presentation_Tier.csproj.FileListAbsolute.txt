@@ -154,3 +154,6 @@ D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\Presentation_
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\Presentation_Tier\bin\Debug\netcoreapp3.1\TicTacToe_Interfaces.pdb
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\Presentation_Tier\obj\Debug\netcoreapp3.1\Presentation_Tier.csproj.CopyComplete
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\Presentation_Tier\obj\Debug\netcoreapp3.1\Presentation_Tier.genruntimeconfig.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\Presentation_Tier\bin\Debug\netcoreapp3.1\Shouldly.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\Presentation_Tier\bin\Debug\netcoreapp3.1\CoreLibrary.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\Presentation_Tier\bin\Debug\netcoreapp3.1\CoreLibrary.pdb

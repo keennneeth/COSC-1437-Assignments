@@ -43,3 +43,12 @@ D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\TicTacToe_Int
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.csproj.CoreCompileInputs.cache
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.dll
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\bin\Debug\netstandard2.0\TicTacToe_Interfaces.deps.json
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\bin\Debug\netstandard2.0\TicTacToe_Interfaces.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\bin\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.dll
+C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 9\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
