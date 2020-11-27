@@ -66,7 +66,7 @@ namespace Presentation_Tier
         private void txtPlayerName_TextChanged(object sender, EventArgs e)
 
         {
-            // ProfReynolds - iside methods, the variable should begin with a lowercase
+            // ProfReynolds - inside methods, the variable should begin with a lowercase
             var playerNameIsValid = (txtPlayerName.Text.Length >= 3);
 
             btnStartNewGame.Enabled = playerNameIsValid;
@@ -86,7 +86,7 @@ namespace Presentation_Tier
          */
         private void txtPlayerName_Validated(object sender, EventArgs e)
         {
-            
+            // ProfReynolds2 - add the line above to assign the _ticTacToeGame.PlayerName property
         }
 
         private void btnStartNewGame_Click(object sender, EventArgs e)
@@ -119,6 +119,7 @@ namespace Presentation_Tier
             {
                 MessageBox.Show("Computer", "The Winner!");
                 // ProfReynolds - this would be better: MessageBox.Show("Computer","The Winner!");
+                // ProfReynolds2 - make the change above
             }
         }
 
@@ -142,6 +143,7 @@ namespace Presentation_Tier
             {
                 MessageBox.Show(_ticTacToeGame.PlayerName, "The Winner!");
                 // ProfReynolds - this would be better: MessageBox.Show(_ticTacToeGame.PlayerName,"The Winner!");
+                // ProfReynolds2 - make the change above
             }
         }
 
