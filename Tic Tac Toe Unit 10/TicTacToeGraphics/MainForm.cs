@@ -11,8 +11,20 @@ using System.Windows.Forms;
 using CoreLibrary;
 using TicTacToe_Interfaces;
 
+/*
+ * ProfReynolds
+ * your name here
+ */
+
 namespace TicTacToeGraphics
 {
+    /*
+     * ProfReynolds
+     * form is properly named, but the file is names Form1.
+     * Typically, when you rename the file, the class is
+     * optionally renamed. But this does not work the other way around.
+     * I fixed it
+     */
     public partial class MainForm : Form
     {
         private Middle_Tier.TicTacToeGame _ticTacToeGame = new Middle_Tier.TicTacToeGame();
@@ -46,6 +58,11 @@ namespace TicTacToeGraphics
             {
                 if (control is GameCell gameCell)
                 {
+                    /*
+                     * ProfReynolds
+                     * in the designer, each user control must have the GameCellCol and GameCellRow properties set.
+                     * currently, they are all 0-0.
+                     */
                     if (gameCell.GameCellRow == e.RowID &&
                         gameCell.GameCellCol == e.ColID)
                     {
@@ -82,6 +99,11 @@ namespace TicTacToeGraphics
             }
         }
 
+        /*
+         * ProfReynolds
+         * this is working fine. But the text box should be initialized. Otherwise, everything
+         * is initialized but there is no player.
+         */
         private void PlayerName_TextChanged(object sender, EventArgs e)
         {
             var playerNameIsValid = (PlayerName.Text.Length >= 3);
@@ -94,13 +116,21 @@ namespace TicTacToeGraphics
         private void PlayerName_Validated(object sender, EventArgs e)
         {
             // when the focus leaves the text box, this event is triggered
+            /*
+             * ProfReynolds
+             * this event method should place the value of txtlayerName.Text into
+             * the property _ticTacToeGame.PlayerName
+             */
         }
 
+        /*
+         * ProfReynolds
+         * this is correct, but should normally be immediately after the constructor method.
+         */
         private void MainForm_Load(object sender, EventArgs e)
         {
             _ticTacToeGame.CellOwnerChanged += this.CellOwnerChangedHandler;
         }
 
-       
     }
 }

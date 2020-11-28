@@ -163,7 +163,12 @@ namespace Middle_Tier
 
             // checking if the computer is the winner
 
-
+            /*
+             * ProfReynolds
+             * this section will require significant revision in the semester project.
+             * instructions are provided in the lab manual
+             * (just giving you a heads-up)
+             */
             foreach (var combination in _winningCombinations)
             {
                 if (combination[0].CellOwner == CellOwners.Open)
@@ -231,7 +236,13 @@ namespace Middle_Tier
             foreach (var targetCell in _goodNextMove)
             {
                 if (targetCell.CellOwner == CellOwners.Open)
-                {      
+                {
+                    /*
+                     * ProfReynolds
+                     * This line will not invoke the event
+                     * use this instead:
+                     * AssignCellOwner(combination[2].RowID, combination[2].ColID, CellOwners.Computer);
+                     */
                     targetCell.CellOwner = CellOwners.Computer;
                     return;
                 }

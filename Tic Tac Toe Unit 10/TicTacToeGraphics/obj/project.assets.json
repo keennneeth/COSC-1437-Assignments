@@ -2076,20 +2076,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kenneth\\.nuget\\packages\\": {}
+    "C:\\Users\\mark\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\TicTacToeGraphics.csproj",
+      "projectUniqueName": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\TicTacToeGraphics.csproj",
       "projectName": "TicTacToeGraphics",
-      "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\TicTacToeGraphics.csproj",
-      "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-      "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\obj\\",
+      "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\TicTacToeGraphics.csproj",
+      "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
+      "outputPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -2101,14 +2106,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\CoreLibrary\\CoreLibrary.csproj": {
-              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\CoreLibrary\\CoreLibrary.csproj"
+            "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\CoreLibrary\\CoreLibrary.csproj": {
+              "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\CoreLibrary\\CoreLibrary.csproj"
             },
-            "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\Middle_Tier\\Middle_Tier.csproj": {
-              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\Middle_Tier\\Middle_Tier.csproj"
+            "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\Middle_Tier\\Middle_Tier.csproj": {
+              "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\Middle_Tier\\Middle_Tier.csproj"
             },
-            "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj": {
-              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj"
+            "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj": {
+              "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj"
             }
           }
         }
@@ -2139,7 +2144,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

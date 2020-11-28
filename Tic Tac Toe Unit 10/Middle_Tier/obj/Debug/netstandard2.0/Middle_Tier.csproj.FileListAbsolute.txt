@@ -70,3 +70,15 @@ D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\Middle_Tier\o
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CopyComplete
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.dll
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 9\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.deps.json
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\bin\Debug\netstandard2.0\Middle_Tier.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\bin\Debug\netstandard2.0\TicTacToe_Interfaces.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\bin\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csprojAssemblyReference.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.AssemblyInfoInputs.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.AssemblyInfo.cs
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CoreCompileInputs.cache
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.csproj.CopyComplete
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.dll
+D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Tic Tac Toe Unit 10\Middle_Tier\obj\Debug\netstandard2.0\Middle_Tier.pdb
