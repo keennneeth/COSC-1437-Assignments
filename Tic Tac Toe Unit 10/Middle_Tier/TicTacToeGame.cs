@@ -118,9 +118,9 @@ namespace Middle_Tier
 
         }
 
-           public CellOwners IdentifyCellOwner(int CellRow, int CellCol)
-            {
-                if (_ticTacToeCells.Count == 0) return CellOwners.Error;
+        public CellOwners IdentifyCellOwner(int CellRow, int CellCol)
+        {
+            if (_ticTacToeCells.Count == 0) return CellOwners.Error;
 
             var cellOwner =
                     _ticTacToeCells
@@ -134,8 +134,8 @@ namespace Middle_Tier
 
         }
 
-           public void AssignCellOwner(int CellRow, int CellCol, CellOwners CellOwner)
-            {
+        public void AssignCellOwner(int CellRow, int CellCol, CellOwners CellOwner)
+        {
 
             if (_ticTacToeCells.Count == 0) return;
 
@@ -203,52 +203,19 @@ namespace Middle_Tier
             // checking if the human is the winner
 
 
-            foreach (var combination in _winningCombinations)
-            {
-                if (combination[0].CellOwner == CellOwners.Open)
-                {
-                    if ((combination[1].CellOwner == CellOwners.Human) &&
-                        (combination[2].CellOwner == CellOwners.Human))
-                    {
-                        AssignCellOwner(combination[0].RowID, combination[0].ColID, CellOwners.Computer);
-                        return;
-                    }
-                }
-                if (combination[1].CellOwner == CellOwners.Open)
-                {
-                    if ((combination[0].CellOwner == CellOwners.Human) &&
-                        (combination[2].CellOwner == CellOwners.Human))
-                    {
-                        AssignCellOwner(combination[1].RowID, combination[1].ColID, CellOwners.Computer);
-                        return;
-                    }
-                }
-                if (combination[2].CellOwner == CellOwners.Open)
-                {
-                    if ((combination[0].CellOwner == CellOwners.Human) &&
-                        (combination[1].CellOwner == CellOwners.Human))
-                    {
-                        AssignCellOwner(combination[2].RowID, combination[2].ColID, CellOwners.Computer);
-                        return;
-                    }
-                }
-            }
             foreach (var targetCell in _goodNextMove)
             {
                 if (targetCell.CellOwner == CellOwners.Open)
                 {
-                    /*
-                     * ProfReynolds
-                     * This line will not invoke the event
-                     * use this instead:
-                     * AssignCellOwner(combination[2].RowID, combination[2].ColID, CellOwners.Computer);
-                     */
-                    targetCell.CellOwner = CellOwners.Computer;
+                    AssignCellOwner(targetCell.RowID, targetCell.ColID, CellOwners.Computer);
                     return;
                 }
             }
-
         }
+   
+              
+
+        
         public bool CheckForWinner()
 
             {

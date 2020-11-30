@@ -12,8 +12,7 @@ using CoreLibrary;
 using TicTacToe_Interfaces;
 
 /*
- * ProfReynolds
- * your name here
+ * Kenneth Rodriguez
  */
 
 namespace TicTacToeGraphics
@@ -99,6 +98,11 @@ namespace TicTacToeGraphics
             }
         }
 
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            _ticTacToeGame.CellOwnerChanged += this.CellOwnerChangedHandler;
+        }
+
         /*
          * ProfReynolds
          * this is working fine. But the text box should be initialized. Otherwise, everything
@@ -121,15 +125,6 @@ namespace TicTacToeGraphics
              * this event method should place the value of txtlayerName.Text into
              * the property _ticTacToeGame.PlayerName
              */
-        }
-
-        /*
-         * ProfReynolds
-         * this is correct, but should normally be immediately after the constructor method.
-         */
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-            _ticTacToeGame.CellOwnerChanged += this.CellOwnerChangedHandler;
         }
 
     }

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tgpAzdPBFH8qiifFmvzdwLj6qHYwRY/i2bWBZBjUxuGDyO/IrDSrq8HAzorLV2WfaaTgi5MgxFxL0MY45GF42Q==",
+  "dgSpecHash": "fnhtnOqQFnWXSeCnPIs/dQtA5UaJUs95bGE/jRT8cCKG1pC+WeZ+o7nB7i6dr9uX0+p1XMyIncQPSnuCtTBzxg==",
   "success": true,
-  "projectFilePath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj",
+  "projectFilePath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mark\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\mark\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Kenneth\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kenneth\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

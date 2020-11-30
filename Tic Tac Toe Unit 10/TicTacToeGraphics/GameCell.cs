@@ -8,8 +8,7 @@ using System.Windows.Forms;
 using TicTacToe_Interfaces;
 
 /*
- * ProfReynolds
- * your name here
+ * Kenneth Rodriguez
  */
 
 namespace TicTacToeGraphics

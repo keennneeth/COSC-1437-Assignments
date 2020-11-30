@@ -73,6 +73,7 @@
             this.PlayerName.Name = "PlayerName";
             this.PlayerName.Size = new System.Drawing.Size(295, 23);
             this.PlayerName.TabIndex = 2;
+            this.PlayerName.Text = "Kenneth Rodriguez";
             this.PlayerName.TextChanged += new System.EventHandler(this.PlayerName_TextChanged);
             this.PlayerName.Validated += new System.EventHandler(this.PlayerName_Validated);
             // 
@@ -118,9 +119,9 @@
             this.gameCell8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("gameCell8.BackgroundImage")));
             this.gameCell8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.gameCell8.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.gameCell8.GameCellCol = 0;
+            this.gameCell8.GameCellCol = 2;
             this.gameCell8.GameCellOwner = TicTacToe_Interfaces.CellOwners.Error;
-            this.gameCell8.GameCellRow = 0;
+            this.gameCell8.GameCellRow = 2;
             this.gameCell8.Location = new System.Drawing.Point(214, 201);
             this.gameCell8.Name = "gameCell8";
             this.gameCell8.Size = new System.Drawing.Size(99, 93);
@@ -134,9 +135,9 @@
             this.gameCell7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.gameCell7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.gameCell7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gameCell7.GameCellCol = 0;
+            this.gameCell7.GameCellCol = 2;
             this.gameCell7.GameCellOwner = TicTacToe_Interfaces.CellOwners.Error;
-            this.gameCell7.GameCellRow = 0;
+            this.gameCell7.GameCellRow = 1;
             this.gameCell7.Location = new System.Drawing.Point(107, 201);
             this.gameCell7.Name = "gameCell7";
             this.gameCell7.Size = new System.Drawing.Size(101, 93);
@@ -150,7 +151,7 @@
             this.gameCell6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.gameCell6.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.gameCell6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gameCell6.GameCellCol = 0;
+            this.gameCell6.GameCellCol = 2;
             this.gameCell6.GameCellOwner = TicTacToe_Interfaces.CellOwners.Error;
             this.gameCell6.GameCellRow = 0;
             this.gameCell6.Location = new System.Drawing.Point(3, 201);
@@ -166,9 +167,9 @@
             this.gameCell5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.gameCell5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.gameCell5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gameCell5.GameCellCol = 0;
+            this.gameCell5.GameCellCol = 1;
             this.gameCell5.GameCellOwner = TicTacToe_Interfaces.CellOwners.Error;
-            this.gameCell5.GameCellRow = 0;
+            this.gameCell5.GameCellRow = 2;
             this.gameCell5.Location = new System.Drawing.Point(214, 101);
             this.gameCell5.Name = "gameCell5";
             this.gameCell5.Size = new System.Drawing.Size(99, 94);
@@ -182,9 +183,9 @@
             this.gameCell4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.gameCell4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.gameCell4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gameCell4.GameCellCol = 0;
+            this.gameCell4.GameCellCol = 1;
             this.gameCell4.GameCellOwner = TicTacToe_Interfaces.CellOwners.Error;
-            this.gameCell4.GameCellRow = 0;
+            this.gameCell4.GameCellRow = 1;
             this.gameCell4.Location = new System.Drawing.Point(107, 101);
             this.gameCell4.Name = "gameCell4";
             this.gameCell4.Size = new System.Drawing.Size(101, 94);
@@ -198,7 +199,7 @@
             this.gameCell3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.gameCell3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.gameCell3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gameCell3.GameCellCol = 0;
+            this.gameCell3.GameCellCol = 1;
             this.gameCell3.GameCellOwner = TicTacToe_Interfaces.CellOwners.Error;
             this.gameCell3.GameCellRow = 0;
             this.gameCell3.Location = new System.Drawing.Point(3, 101);
@@ -216,7 +217,7 @@
             this.gameCell2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gameCell2.GameCellCol = 0;
             this.gameCell2.GameCellOwner = TicTacToe_Interfaces.CellOwners.Error;
-            this.gameCell2.GameCellRow = 0;
+            this.gameCell2.GameCellRow = 2;
             this.gameCell2.Location = new System.Drawing.Point(214, 3);
             this.gameCell2.Name = "gameCell2";
             this.gameCell2.Size = new System.Drawing.Size(99, 92);
@@ -232,7 +233,7 @@
             this.gameCell1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gameCell1.GameCellCol = 0;
             this.gameCell1.GameCellOwner = TicTacToe_Interfaces.CellOwners.Error;
-            this.gameCell1.GameCellRow = 0;
+            this.gameCell1.GameCellRow = 1;
             this.gameCell1.Location = new System.Drawing.Point(107, 3);
             this.gameCell1.Name = "gameCell1";
             this.gameCell1.Size = new System.Drawing.Size(101, 92);
