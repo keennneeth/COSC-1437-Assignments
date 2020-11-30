@@ -169,6 +169,7 @@ namespace Middle_Tier
              * instructions are provided in the lab manual
              * (just giving you a heads-up)
              */
+
             foreach (var combination in _winningCombinations)
             {
                 if (combination[0].CellOwner == CellOwners.Open)
