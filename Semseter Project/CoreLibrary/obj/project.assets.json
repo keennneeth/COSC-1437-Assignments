@@ -2168,20 +2168,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kenneth\\.nuget\\packages\\": {}
+    "C:\\Users\\mark\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Semseter Project\\CoreLibrary\\CoreLibrary.csproj",
+      "projectUniqueName": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Semseter Project\\CoreLibrary\\CoreLibrary.csproj",
       "projectName": "CoreLibrary",
-      "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Semseter Project\\CoreLibrary\\CoreLibrary.csproj",
-      "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-      "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Semseter Project\\CoreLibrary\\obj\\",
+      "projectPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Semseter Project\\CoreLibrary\\CoreLibrary.csproj",
+      "packagesPath": "C:\\Users\\mark\\.nuget\\packages\\",
+      "outputPath": "D:\\Lonestar_1437\\Kenneth Rodriguez (keennneeth)\\Semseter Project\\CoreLibrary\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -2225,7 +2230,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

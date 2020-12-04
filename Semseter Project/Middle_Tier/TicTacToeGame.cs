@@ -230,6 +230,11 @@ namespace Middle_Tier
             if (Winner == CellOwners.Computer || Winner == CellOwners.Human) return;
 
 
+            /*
+             * ProfReynolds
+             * each combination will have 4 or 5 elements. so the previous logic is woefully incomplete.
+             * recommend you replace this method with the one below
+             */
             foreach (var combination in _winningCombinations)
             {
                 if (combination[0].CellOwner == CellOwners.Open)
@@ -275,10 +280,49 @@ namespace Middle_Tier
                 }
             }
         }
-   
-              
 
-        
+
+        /*
+         * ProfReynolds1204
+         * this is a rather advanced solution but you will learn if you study it.
+
+        public void AutoPlayComputer()
+        {
+            bool SearchForPlayerReadyToWin(CellOwners checkingCellOwner)
+            {
+                foreach (var combination in _winningCombinations)
+                foreach (var targetCell in combination.Where(tttc => tttc.CellOwner == CellOwners.Open))
+                {
+                    if (combination
+                        .Count(tttc =>
+                            tttc != targetCell &&
+                            tttc.CellOwner != checkingCellOwner) > 0)
+                        break;
+
+                    AssignCellOwner(targetCell.RowID, targetCell.ColID, CellOwners.Computer);
+                    return true;
+                }
+
+                return false;
+            }
+
+            if (_ticTacToeCells.Count == 0) return;
+
+            if (Winner == CellOwners.Computer || Winner == CellOwners.Human) return;
+
+
+            if (SearchForPlayerReadyToWin(CellOwners.Computer)) return;
+            if (SearchForPlayerReadyToWin(CellOwners.Human)) return;
+
+            var winningCell = _goodNextMove
+                .FirstOrDefault(tttc => tttc.CellOwner == CellOwners.Open);
+            if (winningCell != null)
+                AssignCellOwner(winningCell.RowID, winningCell.ColID, CellOwners.Computer);
+        }
+
+        */
+
+
         public bool CheckForWinner()
 
             {
@@ -601,6 +645,18 @@ namespace Middle_Tier
                     return true;
                 }
             }
+
+            /*
+             * ProfReynolds1204
+             * The above is complicated due to the combinations being 4 or 5
+             * replace the above with this
+             *
+            if (combination.Any(tttc => tttc.CellOwner != firstCell.CellOwner))
+                continue;
+
+            Winner = firstCell.CellOwner;
+             *
+             */
 
             Debug.WriteLine($"Method: CheckForWinner {Winner}");
 
