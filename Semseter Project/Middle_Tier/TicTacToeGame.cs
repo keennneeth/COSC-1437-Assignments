@@ -55,10 +55,10 @@ namespace Middle_Tier
                 _ticTacToeCells.First(tttc => tttc.RowID==0 && tttc.ColID==4),
                 _ticTacToeCells.First(tttc => tttc.RowID==3 && tttc.ColID==2),
                 _ticTacToeCells.First(tttc => tttc.RowID==1 && tttc.ColID==2),
-                _ticTacToeCells.First(tttc => tttc.RowID==2 && tttc.ColID==4),
-                _ticTacToeCells.First(tttc => tttc.RowID==3 && tttc.ColID==3),
                 _ticTacToeCells.First(tttc => tttc.RowID==0 && tttc.ColID==2),
-                _ticTacToeCells.First(tttc => tttc.RowID==2 && tttc.ColID==0),
+                _ticTacToeCells.First(tttc => tttc.RowID==4 && tttc.ColID==2),
+                _ticTacToeCells.First(tttc => tttc.RowID==3 && tttc.ColID==1),
+                _ticTacToeCells.First(tttc => tttc.RowID==1 && tttc.ColID==3),
                 _ticTacToeCells.First(tttc => tttc.RowID==4 && tttc.ColID==2),
                 _ticTacToeCells.First(tttc => tttc.RowID==4 && tttc.ColID==2),
                 _ticTacToeCells.First(tttc => tttc.RowID==0 && tttc.ColID==1),
@@ -224,63 +224,42 @@ namespace Middle_Tier
             CellOwnerChanged?.Invoke(this, eventArgs);
         }
 
+
+
         public void AutoPlayComputer()
         {
+            bool SearchForPlayerReadyToWin(CellOwners checkingCellOwner)
+            {
+                foreach (var combination in _winningCombinations)
+                    foreach (var targetCell in combination.Where(tttc => tttc.CellOwner == CellOwners.Open))
+                    {
+                        if (combination
+                            .Count(tttc =>
+                                tttc != targetCell &&
+                                tttc.CellOwner != checkingCellOwner) > 0)
+                            break;
+
+                        AssignCellOwner(targetCell.RowID, targetCell.ColID, CellOwners.Computer);
+                        return true;
+                    }
+
+                return false;
+            }
+
             if (_ticTacToeCells.Count == 0) return;
+
             if (Winner == CellOwners.Computer || Winner == CellOwners.Human) return;
 
 
-            /*
-             * ProfReynolds
-             * each combination will have 4 or 5 elements. so the previous logic is woefully incomplete.
-             * recommend you replace this method with the one below
-             */
-            foreach (var combination in _winningCombinations)
-            {
-                if (combination[0].CellOwner == CellOwners.Open)
-                {
-                    if ((combination[1].CellOwner == CellOwners.Computer) &&
-                        (combination[2].CellOwner == CellOwners.Computer))
-                    {
-                        AssignCellOwner(combination[0].RowID, combination[0].ColID, CellOwners.Computer);
-                        return;
-                    }
-                }
-            }
+            if (SearchForPlayerReadyToWin(CellOwners.Computer)) return;
+            if (SearchForPlayerReadyToWin(CellOwners.Human)) return;
 
-            //    if (combination[1].CellOwner == CellOwners.Open)
-            //    {
-            //        if ((combination[0].CellOwner == CellOwners.Computer) &&
-            //            (combination[2].CellOwner == CellOwners.Computer))
-            //        {
-            //            AssignCellOwner(combination[1].RowID, combination[1].ColID, CellOwners.Computer);
-             //           return;
-            //        }
-            //    }
-            //    if (combination[2].CellOwner == CellOwners.Open)
-            //    {
-            //        if ((combination[0].CellOwner == CellOwners.Computer) &&
-            //           (combination[1].CellOwner == CellOwners.Computer))
-            //        {
-            //           AssignCellOwner(combination[2].RowID, combination[2].ColID, CellOwners.Computer);
-            //            return;
-            //        }
-            //    }
-            
-
-            // checking if the human is the winner
-
-
-            foreach (var targetCell in _goodNextMove)
-            {
-                if (targetCell.CellOwner == CellOwners.Open)
-                {
-                    AssignCellOwner(targetCell.RowID, targetCell.ColID, CellOwners.Computer);
-                    return;
-                }
-            }
+            var winningCell = _goodNextMove
+                .FirstOrDefault(tttc => tttc.CellOwner == CellOwners.Open);
+            if (winningCell != null)
+                AssignCellOwner(winningCell.RowID, winningCell.ColID, CellOwners.Computer);
         }
-
+    
 
         /*
          * ProfReynolds1204
@@ -629,21 +608,11 @@ namespace Middle_Tier
                 if ((firstCell.CellOwner != CellOwners.Computer) &&
                     (firstCell.CellOwner != CellOwners.Human)) continue;
 
-                var winnerFound = true;
-                foreach (var item in combination)
-                    if (firstCell.CellOwner != item.CellOwner)
-                        winnerFound = false;
 
+                if (combination.Any(tttc => tttc.CellOwner != firstCell.CellOwner))
+                    continue;
 
-                if (winnerFound)
-                {
-                    Winner = firstCell.CellOwner;
-
-
-                    Debug.WriteLine($"Method: CheckForWinner {Winner}");
-
-                    return true;
-                }
+                Winner = firstCell.CellOwner;
             }
 
             /*

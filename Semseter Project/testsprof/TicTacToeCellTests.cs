@@ -64,7 +64,7 @@ namespace ProfReynoldsUnitTests
 
         [DataTestMethod]
         [DataRow(-1)]
-        [DataRow(3)] // ProfReynolds1204 this should be changed to reflect the new 5x5 format
+        [DataRow(5)] // ProfReynolds1204 this should be changed to reflect the new 5x5 format
         [DataRow(999)]
         public void Assignment_Of_RowID_Outside_Range_Should_Fault(int attemptedAssignment)
         {
@@ -83,7 +83,7 @@ namespace ProfReynoldsUnitTests
 
         [DataTestMethod]
         [DataRow(-1)]
-        [DataRow(3)] // ProfReynolds1204 this should be changed to reflect the new 5x5 format
+        [DataRow(5)] // ProfReynolds1204 this should be changed to reflect the new 5x5 format
         [DataRow(999)]
         public void Assignment_Of_ColID_Outside_Range_Should_Fault(int attemptedAssignment)
         {

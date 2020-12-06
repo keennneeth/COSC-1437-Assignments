@@ -97,3 +97,12 @@ D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Semseter Project\CoreLibrary\obj
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csproj.CoreCompileInputs.cache
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.dll
 D:\Lonestar_1437\Kenneth Rodriguez (keennneeth)\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.deps.json
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.dll
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csprojAssemblyReference.cache
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.AssemblyInfoInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.AssemblyInfo.cs
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csproj.CoreCompileInputs.cache
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.dll
+C:\Lonestar\COSC-1437-Assignments\Semseter Project\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.pdb

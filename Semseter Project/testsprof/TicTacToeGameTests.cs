@@ -191,14 +191,18 @@ namespace ProfReynoldsUnitTests
             ticTacToeGame.ResetGrid();
 
             // act
-
-            ticTacToeGame.AutoPlayComputer();
+      
             ticTacToeGame.AssignCellOwner(0, 0, CellOwners.Human);
             ticTacToeGame.AutoPlayComputer();
-            ticTacToeGame.AssignCellOwner(2, 0, CellOwners.Human);
+            ticTacToeGame.AssignCellOwner(4, 4, CellOwners.Human);
             ticTacToeGame.AutoPlayComputer();
-            ticTacToeGame.AssignCellOwner(0, 1, CellOwners.Human); 
+            ticTacToeGame.AssignCellOwner(2, 0, CellOwners.Human); 
             ticTacToeGame.AutoPlayComputer();
+            ticTacToeGame.AssignCellOwner(2, 1, CellOwners.Human);
+            ticTacToeGame.AutoPlayComputer();
+            ticTacToeGame.AssignCellOwner(2, 4, CellOwners.Human);
+            ticTacToeGame.AutoPlayComputer();
+            ticTacToeGame.CheckForWinner();
 
             // assert
 
@@ -218,11 +222,15 @@ namespace ProfReynoldsUnitTests
 
             ticTacToeGame.AssignCellOwner(0, 0, CellOwners.Human);
             ticTacToeGame.AutoPlayComputer();
-            ticTacToeGame.AssignCellOwner(2, 2, CellOwners.Human);
+            ticTacToeGame.AssignCellOwner(4, 4, CellOwners.Human);
             ticTacToeGame.AutoPlayComputer();
             ticTacToeGame.AssignCellOwner(2, 0, CellOwners.Human);
             ticTacToeGame.AutoPlayComputer();
-            ticTacToeGame.AssignCellOwner(1, 0, CellOwners.Human);
+            ticTacToeGame.AssignCellOwner(2, 4, CellOwners.Human);
+            ticTacToeGame.AutoPlayComputer();
+            ticTacToeGame.AssignCellOwner(2, 1, CellOwners.Human);
+            ticTacToeGame.CheckForWinner();
+            ticTacToeGame.AssignCellOwner(2, 3, CellOwners.Human);
             ticTacToeGame.CheckForWinner();
 
             // assert
