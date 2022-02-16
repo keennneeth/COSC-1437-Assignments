@@ -1,4 +1,2 @@
-# COSC-1437-Assignments-New
+# COSC-1437-Assignments
 Kenneth Rodriguez
-Student ID #7590065
-Course Of Study - Computer Science
