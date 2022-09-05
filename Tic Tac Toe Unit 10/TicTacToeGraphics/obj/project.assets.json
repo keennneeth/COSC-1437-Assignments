@@ -2076,39 +2076,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kenneth\\.nuget\\packages\\": {}
+    "C:\\Users\\kenny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\TicTacToeGraphics.csproj",
+      "projectUniqueName": "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\TicTacToeGraphics.csproj",
       "projectName": "TicTacToeGraphics",
-      "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\TicTacToeGraphics.csproj",
-      "packagesPath": "C:\\Users\\Kenneth\\.nuget\\packages\\",
-      "outputPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\obj\\",
+      "projectPath": "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\TicTacToeGraphics.csproj",
+      "packagesPath": "C:\\Users\\kenny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToeGraphics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kenneth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\kenny\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\CoreLibrary\\CoreLibrary.csproj": {
-              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\CoreLibrary\\CoreLibrary.csproj"
+            "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\CoreLibrary\\CoreLibrary.csproj": {
+              "projectPath": "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\CoreLibrary\\CoreLibrary.csproj"
             },
-            "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\Middle_Tier\\Middle_Tier.csproj": {
-              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\Middle_Tier\\Middle_Tier.csproj"
+            "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\Middle_Tier\\Middle_Tier.csproj": {
+              "projectPath": "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\Middle_Tier\\Middle_Tier.csproj"
             },
-            "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj": {
-              "projectPath": "C:\\Lonestar\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj"
+            "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj": {
+              "projectPath": "C:\\Users\\kenny\\Documents\\GitHub\\COSC-1437-Assignments\\Tic Tac Toe Unit 10\\TicTacToe_Interfaces\\TicTacToe_Interfaces.csproj"
             }
           }
         }
@@ -2121,6 +2120,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -2131,6 +2131,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.22, 3.1.22]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -2139,7 +2157,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

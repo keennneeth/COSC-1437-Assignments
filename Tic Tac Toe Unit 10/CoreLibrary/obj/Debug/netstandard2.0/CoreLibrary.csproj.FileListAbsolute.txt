@@ -88,3 +88,13 @@ C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\nets
 C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csproj.CoreCompileInputs.cache
 C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.dll
 C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.deps.json
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.dll
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\bin\Debug\netstandard2.0\CoreLibrary.pdb
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csproj.AssemblyReference.cache
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.AssemblyInfoInputs.cache
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.AssemblyInfo.cs
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.dll
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\CoreLibrary\obj\Debug\netstandard2.0\CoreLibrary.pdb

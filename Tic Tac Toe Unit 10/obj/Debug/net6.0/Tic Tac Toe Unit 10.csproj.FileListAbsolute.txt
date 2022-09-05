@@ -1,0 +1,7 @@
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\obj\Debug\net6.0\Tic Tac Toe Unit 10.csproj.AssemblyReference.cache
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\obj\Debug\net6.0\Presentation_Tier.AboutBox.resources
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\obj\Debug\net6.0\Presentation_Tier.MainForm.resources
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\obj\Debug\net6.0\TicTacToeGraphics.GameCell.resources
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\obj\Debug\net6.0\TicTacToeGraphics.MainForm.resources
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\obj\Debug\net6.0\Tic_Tac_Toe_Unit_10.TicTacToeGraphics.Properties.Resources.resources
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\obj\Debug\net6.0\Tic Tac Toe Unit 10.csproj.GenerateResource.cache

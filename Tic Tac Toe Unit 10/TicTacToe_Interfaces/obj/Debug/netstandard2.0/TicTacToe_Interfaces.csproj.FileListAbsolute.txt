@@ -70,3 +70,13 @@ C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\D
 C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.csproj.CoreCompileInputs.cache
 C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.dll
 C:\Lonestar\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\bin\Debug\netstandard2.0\TicTacToe_Interfaces.deps.json
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\bin\Debug\netstandard2.0\TicTacToe_Interfaces.dll
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\bin\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.csproj.AssemblyReference.cache
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.AssemblyInfoInputs.cache
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.AssemblyInfo.cs
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.dll
+C:\Users\kenny\Documents\GitHub\COSC-1437-Assignments\Tic Tac Toe Unit 10\TicTacToe_Interfaces\obj\Debug\netstandard2.0\TicTacToe_Interfaces.pdb
